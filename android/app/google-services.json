@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "368074010531",
+    "project_id": "cyber-watch-4bd3d",
+    "storage_bucket": "cyber-watch-4bd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368074010531:android:a6755019cb933ed0263416",
+        "android_client_info": {
+          "package_name": "com.cyberwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368074010531-gmgeucsvkppd359bseojqltv2gtrp33n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGe3edIdt9YoHudDzvVPhLj7hdqfIyNaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368074010531-gmgeucsvkppd359bseojqltv2gtrp33n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368074010531:android:8d678f41070ca56a263416",
+        "android_client_info": {
+          "package_name": "com.example.cyberwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368074010531-36smtiqprmo2ougfauud6g19k9723tus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyberwatch",
+            "certificate_hash": "de65d5c3c3711ec265866d3f6c263140605014fe"
+          }
+        },
+        {
+          "client_id": "368074010531-roteggpiaeu90ismg079n89pv8hjhit7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyberwatch",
+            "certificate_hash": "e1300b77ea4537d1da6d036e31c977185e546df7"
+          }
+        },
+        {
+          "client_id": "368074010531-gmgeucsvkppd359bseojqltv2gtrp33n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGe3edIdt9YoHudDzvVPhLj7hdqfIyNaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368074010531-gmgeucsvkppd359bseojqltv2gtrp33n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

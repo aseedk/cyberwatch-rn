@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cyberwatch</string>
+    <string name="facebook_app_id">480299120303092</string>
+    <string name="facebook_client_token">fb480299120303092</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">4aNp2JGbx8eDXMvJzhjyWU8lf</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">QgJbqWNRMjGamwDLbvaim9z3HcZe4OVRjFDnHdwMMAXDhHci0l</string>
+</resources>
